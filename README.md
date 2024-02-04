@@ -6,6 +6,8 @@ Certainly! Let's provide a more detailed explanation for both the overall projec
 
 This repository showcases a project that utilizes YOLOv7 (You Only Look Once version 7) for object tracking, specifically focusing on tracking the position of cars on a highway. YOLOv7 is a real-time object detection algorithm known for its speed and accuracy.
 
+![Demo]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/ashiqrahmana/Tracking-using-YOLO-v7/blob/main/tracking-gif.gif))
+
 ### Contents
 
 #### 1. `images_to_be_uploaded/`
