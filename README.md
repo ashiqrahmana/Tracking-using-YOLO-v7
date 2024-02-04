@@ -1,7 +1,3 @@
-Certainly! Let's provide a more detailed explanation for both the overall project and the specific YOLOv7 aspect in the GitHub repository.
-
-## Repository Overview
-
 ### Tracking using YOLOv7
 
 This repository showcases a project that utilizes YOLOv7 (You Only Look Once version 7) for object tracking, specifically focusing on tracking the position of cars on a highway. YOLOv7 is a real-time object detection algorithm known for its speed and accuracy.
